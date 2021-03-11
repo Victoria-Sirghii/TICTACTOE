@@ -43,6 +43,7 @@ function App() {
     setHistory(NEW_GAME)
     setCurrentMove(0)
   }
+  
   return (
     <div className="app">
       <h1>TIC <span className="text-green">TAC</span> TOE</h1>
